@@ -643,3 +643,4 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | [THack Berlin Travel Hackathon](https://www.eventbrite.com/e/thack-berlin-travel-hackathon-tickets-20834398246) | Berlin, Germany | 3.4 |
 | [BrickHack](https://brickhack.io/) | Rochester, NY | 3.5 - 3.6 |
 | [HackUMBC](https://hackumbc.org/) | Baltimore County, MD | 3.5 - 3.6 |
+| [Melbourne Space Hack](http://www.finalfrontier.co/hackathon/)| Melbourne, Australia | 7.1 - 7.2 |
